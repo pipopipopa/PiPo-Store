@@ -43,7 +43,7 @@ export const sponsorConfig: SponsorConfig = {
 			name: "ko-fi",
 			icon: "simple-icons:kofi",
 			qrCode: "",
-			link: "https://ko-fi.com/cuteleaf",
+			//link: "https://ko-fi.com/cuteleaf",
 			description: "Buy a Coffee for Firefly",
 			enabled: true,
 		},
@@ -51,7 +51,7 @@ export const sponsorConfig: SponsorConfig = {
 			name: "爱发电",
 			icon: "simple-icons:afdian",
 			qrCode: "",
-			link: "https://ifdian.net/a/cuteleaf",
+			//link: "https://ifdian.net/a/cuteleaf",
 			description: "通过 爱发电 进行打赏",
 			enabled: true,
 		},
@@ -61,10 +61,10 @@ export const sponsorConfig: SponsorConfig = {
 	sponsors: [
 		// 示例：已实名打赏者
 		{
-			name: "夏叶",
+			name: "pipo",
 			avatar:
-				"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-			amount: "¥50",
+				"src/assets/images/Ibuki.avif",
+			amount: "¥114514",
 			date: "2025-10-01",
 		},
 

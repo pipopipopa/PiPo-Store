@@ -90,7 +90,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 	model: [
 		{
 			// Live2D模型本地文件路径
-			path: "/pio/models/live2d/snow_miku/model.json",
+			path: "/pio/models/live2d/mycat/mycat.model3.json",
 			// 动作声音音量 范围0~1，默认 0（静音）
 			volume: 0,
 			// 模型缩放比例
@@ -100,14 +100,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 			// Y轴偏移，范围 -2~2，正值向上
 			y: 0,
 		},
-		{
-			// 外部直连模型
-			path: "https://model.hacxy.cn/cat-black/model.json",
-			volume: 0,
-			scale: 1,
-			x: 0,
-			y: 0,
-		},
+
 	],
 	// 显示位置：bottom-left 或 bottom-right
 	position: "bottom-left" as const,
