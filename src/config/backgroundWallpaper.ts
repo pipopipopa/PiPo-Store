@@ -73,7 +73,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "这里是 PiPo Store",
+			title: "欢迎来到 PiPo Store",
 			// 主页横幅主标题字体大小
 			titleSize: "4rem",
 			// 主页横幅副标题
